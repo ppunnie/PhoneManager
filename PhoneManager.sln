@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneManager", "PhoneManager\PhoneManager.csproj", "{92362D60-406E-406D-8797-C3965C13E619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92362D60-406E-406D-8797-C3965C13E619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92362D60-406E-406D-8797-C3965C13E619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92362D60-406E-406D-8797-C3965C13E619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92362D60-406E-406D-8797-C3965C13E619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1CBF2B-91C2-4D3D-920A-68C5D251AA6C}
+	EndGlobalSection
+EndGlobal
