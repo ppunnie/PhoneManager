@@ -24,7 +24,7 @@ namespace PhoneManager
 
             List<Phone> bestSellingPhones = new List<Phone>();
             bestSellingPhones = store.FindBestSellingPhone();
-            Console.WriteLine("Điện thoại bán chạy nhất là:");
+            Console.WriteLine("Điện thoại có doanh thu cao nhất là:");
             foreach (Phone phone in bestSellingPhones)
             {
                 Console.WriteLine(phone.GetDetails());
